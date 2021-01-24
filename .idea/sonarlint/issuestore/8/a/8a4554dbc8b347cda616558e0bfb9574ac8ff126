@@ -1,0 +1,12 @@
+
+I
+java:S1481"'Remove this unused "o1" local variable.(¤Ëóûÿÿÿÿ8…Ä†¾É.
+X
+java:S1854"6Remove this useless assignment to local variable "o1".(¤Ëóûÿÿÿÿ8…Ä†¾É.
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(¥Ğèëøÿÿÿÿ8˜æÄìÈ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÖÎ„õ8ƒ±†¾É.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ò¶ƒ
+N
+java:S3011",This accessibility update should be removed.(¸Ò†’üÿÿÿÿ8İÆÅìÈ.

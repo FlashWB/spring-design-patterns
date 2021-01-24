@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ò¶ƒ
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ìé“õ8Á€ĞìÈ.
+T
+java:S2440"7Remove this instantiation of "LazyInnerClassSingleton".(ğ„8¡Ş²ìÈ.
+:
+java:S1118"Hide this public constructor.(ì¼›§8¡Ş²ìÈ.
